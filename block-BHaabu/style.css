@@ -1,7 +1,8 @@
 body {
   background-image: url(./assest/image1.jpg);
-  background-position: 80%;
+  /* background-position: 80%; */
   background-color: black;
+  background-size: cover;
 }
 .overlay {
   background-color: rgba(0, 0, 0, 0.5);
@@ -22,6 +23,8 @@ h1 {
   font-weight: 700;
   /* position: absolute; */
 }
+
+/* section start one  */
 
 .section {
   margin: 80px 0;
@@ -53,6 +56,8 @@ h1 {
 .box3 {
   background-image: radial-gradient(rgba(255, 0, 0), rgb(54, 54, 54));
 }
+
+/* section start two  */
 
 .section2 {
   margin: 80px 0;
